@@ -18,7 +18,7 @@
 #define SLEEP_TIME_MS   500
 
 /* size of stack area used by each thread */
-#define STACKSIZE 1024
+#define STACKSIZE 512
 
 /* scheduling priority used by each thread */
 #define PRIORITY 7
